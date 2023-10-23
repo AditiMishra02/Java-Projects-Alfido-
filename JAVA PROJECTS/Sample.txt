@@ -1,0 +1,5 @@
+This is a sample text document. It contains several words and sentences for testing purposes.
+
+The Word Counter program will read this document and count the number of words in it. It can also provide additional statistics such as the frequency of each word and the average word length.
+
+Feel free to modify this document or use your own text file for testing.
